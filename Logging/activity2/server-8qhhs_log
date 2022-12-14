@@ -1,0 +1,14 @@
+2021-03-13 13:08:52.868228 | server-8qhhs | INFO | Message received correctly. |  - 
+2021-03-13 13:13:52.868228 | server-8qhhs | ERROR | java.lang.ClassCastException: [Ljava.lang.Object; cannot be cast to given class. | Line: 105
+2021-03-13 13:31:52.868228 | server-8qhhs | ERROR | java.lang.ClassCastException: [Ljava.lang.Object; cannot be cast to given class. | Line: 191
+2021-03-13 13:36:52.868228 | server-8qhhs | INFO | Message received correctly. |  - 
+2021-03-13 13:38:52.868228 | server-8qhhs | INFO | Code flow successfully terminated. |  - 
+2021-03-13 13:52:52.868228 | server-8qhhs | INFO | Message received correctly. |  - 
+2021-03-13 13:57:52.868228 | server-8qhhs | INFO | Code flow successfully terminated. |  - 
+2021-03-13 14:01:52.868228 | server-8qhhs | INFO | Code flow successfully terminated. |  - 
+2021-03-13 14:08:52.868228 | server-8qhhs | INFO | Code flow successfully terminated. |  - 
+2021-03-13 14:19:52.868228 | server-8qhhs | ERROR | java.net.SocketException: Socket timed out! Reconnecting.java.lang.NullPointerException: Could not find value of the object, using default. | Line: 189
+2021-03-13 14:48:52.868228 | server-8qhhs | INFO | Sub-system started successfully. |  - 
+2021-03-13 14:49:52.868228 | server-8qhhs | INFO | Message has been published. |  - 
+2021-03-13 14:58:52.868228 | server-8qhhs | INFO | Code flow successfully terminated. |  - 
+2021-03-13 15:04:52.868228 | server-8qhhs | INFO | Message received correctly. |  - 
