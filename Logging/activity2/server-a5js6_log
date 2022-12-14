@@ -1,0 +1,19 @@
+2021-03-13 13:09:52.868228 | server-a5js6 | ERROR | java.net.SocketException: Socket timed out! Reconnecting.java.lang.NullPointerException: Could not find value of the object, using default. | Line: 162
+2021-03-13 13:15:52.868228 | server-a5js6 | INFO | Sub-system started successfully. |  - 
+2021-03-13 13:20:52.868228 | server-a5js6 | INFO | Logging event. |  - 
+2021-03-13 13:27:52.868228 | server-a5js6 | INFO | Logging event. |  - 
+2021-03-13 13:43:52.868228 | server-a5js6 | ERROR | java.net.SocketException: Socket timed out! Reconnecting.java.lang.NullPointerException: Could not find value of the object, using default. | Line: 126
+2021-03-13 13:48:52.868228 | server-a5js6 | ERROR | java.net.SocketException: Socket timed out! Reconnecting.java.lang.NullPointerException: Could not find value of the object, using default. | Line: 96
+2021-03-13 14:03:52.868228 | server-a5js6 | INFO | Logging event. |  - 
+2021-03-13 14:06:52.868228 | server-a5js6 | INFO | Code flow successfully terminated. |  - 
+2021-03-13 14:11:52.868228 | server-a5js6 | INFO | Message has been published. |  - 
+2021-03-13 14:21:52.868228 | server-a5js6 | INFO | Logging event. |  - 
+2021-03-13 14:26:52.868228 | server-a5js6 | ERROR | java.lang.ClassCastException: [Ljava.lang.Object; cannot be cast to given class. | Line: 27
+2021-03-13 14:30:52.868228 | server-a5js6 | INFO | Sub-system started successfully. |  - 
+2021-03-13 14:34:52.868228 | server-a5js6 | INFO | Sub-system started successfully. |  - 
+2021-03-13 14:37:52.868228 | server-a5js6 | INFO | Code flow successfully terminated. |  - 
+2021-03-13 14:44:52.868228 | server-a5js6 | INFO | Sub-system started successfully. |  - 
+2021-03-13 14:59:52.868228 | server-a5js6 | INFO | Message received correctly. |  - 
+2021-03-13 15:01:52.868228 | server-a5js6 | INFO | Logging event. |  - 
+2021-03-13 15:05:52.868228 | server-a5js6 | ERROR | java.lang.ClassCastException: [Ljava.lang.Object; cannot be cast to given class. | Line: 45
+2021-03-13 15:07:52.868228 | server-a5js6 | INFO | Message has been published. |  - 
